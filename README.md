@@ -4,7 +4,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hosseinnarimanirad&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox" />
 </p>
 
-https://www.linkedin.com/in/hosseinnarimanirad/
+<a href="https://stackoverflow.com/users/1468295/hossein-narimani-rad"><img src="https://stackoverflow.com/users/flair/1468295.png" width="208" height="58" alt="profile for Hossein Narimani Rad at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Hossein Narimani Rad at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+ <a href="https://www.linkedin.com/hosseinnarimanirad" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a>
+   
+    
 
 <!--
 **hosseinnarimanirad/hosseinnarimanirad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
