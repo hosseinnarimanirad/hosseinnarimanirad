@@ -6,8 +6,7 @@
 
 <p align="center">
   <a  href="https://stackoverflow.com/users/1468295/hossein-narimani-rad"><img src="https://stackoverflow.com/users/flair/1468295.png" width="208" height="58" alt="profile for Hossein Narimani Rad at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Hossein Narimani Rad at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-</p>
-https://www.linkedin.com/in/hosseinnarimanirad/
+</p> 
 
 <p align="center">
  <a href="https://www.linkedin.com/in/hosseinnarimanirad" rel="nofollow noreferrer">
