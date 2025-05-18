@@ -60,13 +60,15 @@ I specialize in **backend development, data engineering, and geospatial systems*
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hosseinnarimanirad&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox" alt="GitHub Stats" />
   <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hosseinnarimanirad&theme=dark&hide_border=false"/>
+  <br/> 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hosseinnarimanirad&layout=compact&count_private=true&include_all_commits=true&theme=gruvbox" alt="Top Languages" />
+  <br/>   
 </div>
- 
 <p align="center">
-  <a  href="https://stackoverflow.com/users/1468295/hossein-narimani-rad"><img src="https://stackoverflow.com/users/flair/1468295.png" width="208" height="58" alt="profile for Hossein Narimani Rad at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Hossein Narimani Rad at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-</p> 
- 
+  <a  href="https://stackoverflow.com/users/1468295/hossein-narimani-rad"><img src="https://stackoverflow.com/users/flair/1468295.png" width="208" height="58" alt="profile for Hossein Narimani Rad at Stack Overflow" title="profile for Hossein Narimani Rad at Stack Overflow"></a>
+</p>  
+
 ---
 
 ## 🌱 Currently Interested, Learning & Exploring
@@ -90,6 +92,10 @@ Here are some of my notable projects:
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0835-743X)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hossein.narimani.rad@gmail.com)
 
+--- 
+
+<p text-align="left"> <img src="https://komarev.com/ghpvc/?username=hosseinnarimanirad&label=Profile%20views&color=0e75b6&style=flat" alt="edrisym" /> </p>
+
 <!--
 ### Hi there 
 
@@ -103,7 +109,6 @@ Here are some of my notable projects:
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a>
 </p>
- 
 
 **hosseinnarimanirad/hosseinnarimanirad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
