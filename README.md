@@ -71,10 +71,23 @@ I specialize in **backend development, data engineering, and geospatial systems*
 
 ---
 
-## 🌱 Currently Interested, Learning & Exploring
+## 📚 **Key Books I've Learned From**
+
+- [Concurrency in C# Cookbook](https://www.oreilly.com/library/view/concurrency-in-c/9781492054501/) - Asynchronous, Parallel, and Multithreaded Programming  
+- [C# 10 in a Nutshell](https://www.oreilly.com/library/view/c-10-in/9781098121952/) - The Definitive Reference (O'Reilly, 2022)  
+- [C# in Depth](https://www.manning.com/books/c-sharp-in-depth-fourth-edition) - Deep dive into modern C# features  
+- [Introduction to Algorithms (CLRS)](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/) - The classic algorithms reference  
+- [Data Mining: Concepts and Techniques](https://www.elsevier.com/books/data-mining-concepts-and-techniques/han/978-0-12-381479-1) - Comprehensive data mining guide  
+- [Dive Into Design Patterns](https://refactoring.guru/design-patterns/book) (2019) - Practical pattern implementations  
+- [Unit Testing: Principles, Practices, and Patterns](https://www.manning.com/books/unit-testing) (Manning, 2019) - Testing best practices
+
+---
+
+## 🌱 Interested, Learning & Exploring
 - Machine Learning & AI
 - Real-Time Data Streaming (Kafka, RabbitMQ)
 - Spatial Visualization
+- Concurrency; Async, Parallel, and Multithreaded Programming
 
 ---
 
