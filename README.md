@@ -1,7 +1,7 @@
 # Hi there, I'm Hossein Narimanirad! 👋  
 
 ## 🚀 GIS/Backend Developer & Data Engineer  
-I specialize in **backend development, data engineering, and geospatial systems**, with expertise in **GIS, C#, .NET, SQL Server, and Big Data**. I love building **data-driven applications, spatial solutions, scalable APIs, ETL pipelines**.  
+I specialize in **backend development, data engineering, and geospatial systems**, with expertise in **GIS, C#, .NET, SQL Server, and Big Data**. I love building **data-driven applications, spatial solutions, scalable APIs, and ETL pipelines**.  
 
 ---
 
