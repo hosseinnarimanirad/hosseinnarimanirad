@@ -73,13 +73,13 @@ I specialize in **backend development, data engineering, and geospatial systems*
 
 ## 📚 **Key Books I've Learned From**
 
-- [Concurrency in C# Cookbook](https://www.oreilly.com/library/view/concurrency-in-c/9781492054501/) - Asynchronous, Parallel, and Multithreaded Programming  
-- [C# 10 in a Nutshell](https://www.oreilly.com/library/view/c-10-in/9781098121952/) - The Definitive Reference (O'Reilly, 2022)  
-- [C# in Depth](https://www.manning.com/books/c-sharp-in-depth-fourth-edition) - Deep dive into modern C# features  
-- [Introduction to Algorithms (CLRS)](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/) - The classic algorithms reference  
-- [Data Mining: Concepts and Techniques](https://www.elsevier.com/books/data-mining-concepts-and-techniques/han/978-0-12-381479-1) - Comprehensive data mining guide  
+- [Concurrency in C# Cookbook](https://stephencleary.com/book/) - Asynchronous, Parallel, and Multithreaded Programming by Stephen Cleary  
+- [C# 10 in a Nutshell](https://www.amazon.com/C-10-Nutshell-Definitive-Reference/dp/1098121953) - The Definitive Reference (O'Reilly, 2022)  
+- [C# in Depth](https://www.oreilly.com/library/view/c-in-depth/9781617294532/) - Deep dive into modern C# features by Jonathan Skeet  
+- [Introduction to Algorithms (CLRS)](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) - The classic algorithms reference  
+- [Data Mining: Concepts and Techniques](https://myweb.sabanciuniv.edu/rdehkharghani/files/2016/02/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf) (2011) by Han   
 - [Dive Into Design Patterns](https://refactoring.guru/design-patterns/book) (2019) - Practical pattern implementations  
-- [Unit Testing: Principles, Practices, and Patterns](https://www.manning.com/books/unit-testing) (Manning, 2019) - Testing best practices
+- [Unit Testing: Principles, Practices, and Patterns](https://www.manning.com/books/unit-testing) (Manning, 2019) - by Vladimir Khorikov  
 
 ---
 
