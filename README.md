@@ -1,4 +1,4 @@
-# Hi there, I'm Hossein Narimani Rad! 👋  
+![image](https://github.com/user-attachments/assets/cec1531d-c210-42a6-aae7-f30c3c9fa71c)![image](https://github.com/user-attachments/assets/58cc53bc-558b-4495-be08-40e954a11e92)# Hi there, I'm Hossein Narimani Rad! 👋  
 
 ## 🚀 GIS/Backend Developer & Data Engineer  
 I specialize in **backend development, data engineering, and geospatial systems**, with expertise in **GIS, C#, .NET, SQL Server, and Big Data**. I love building **data-driven applications, spatial solutions, scalable APIs, and ETL pipelines**.  
@@ -73,13 +73,27 @@ I specialize in **backend development, data engineering, and geospatial systems*
 
 ## 📚 **Key Books I've Learned From**
 
-- [Concurrency in C# Cookbook](https://stephencleary.com/book/) - Asynchronous, Parallel, and Multithreaded Programming by Stephen Cleary  
+### Algorithms
+- [Introduction to Algorithms (CLRS)](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) - The classic algorithms reference  
+- [Computational Geometry Algorithms and Applications](https://cimec.org.ar/foswiki/pub/Main/Cimec/GeometriaComputacional/DeBerg_-_Computational_Geometry_-_Algorithms_and_Applications_2e.pdf) 2008  
+- [Data Mining: Concepts and Techniques](https://myweb.sabanciuniv.edu/rdehkharghani/files/2016/02/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf) (2011) by Han  
+  
+### .NET 
 - [C# 10 in a Nutshell](https://www.amazon.com/C-10-Nutshell-Definitive-Reference/dp/1098121953) - The Definitive Reference (O'Reilly, 2022)  
 - [C# in Depth](https://www.oreilly.com/library/view/c-in-depth/9781617294532/) - Deep dive into modern C# features by Jonathan Skeet  
-- [Introduction to Algorithms (CLRS)](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) - The classic algorithms reference  
-- [Data Mining: Concepts and Techniques](https://myweb.sabanciuniv.edu/rdehkharghani/files/2016/02/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf) (2011) by Han   
+- [Concurrency in C# Cookbook](https://stephencleary.com/book/) - Asynchronous, Parallel, and Multithreaded Programming by Stephen Cleary  
+
+### Architecture, Patterns and Software Engineering
+- [Software Engineering: A Practitioner's Approach](https://www.amazon.com/Software-Engineering-Practitioners-Roger-Pressman/dp/0078022126) by Pressman  
 - [Dive Into Design Patterns](https://refactoring.guru/design-patterns/book) (2019) - Practical pattern implementations  
 - [Unit Testing: Principles, Practices, and Patterns](https://www.manning.com/books/unit-testing) (Manning, 2019) - by Vladimir Khorikov  
+
+### GIS
+- [GIS A Computing Perspective](https://www.routledge.com/GIS-A-Computing-Perspective/Duckham-Sun-Worboys/p/book/9781466587199?srsltid=AfmBOoqyWzPb-P0jMq2vchHzrPiiNpueXUqgEaiFIZocfDXiFyUv2LQQ) by By Duckham & Worboys
+- [Geographic Information Analysis](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470549094) 2003
+- [Digital Terrain Modeling](https://www.taylorfrancis.com/books/mono/10.1201/9780203357132/digital-terrain-modeling-zhilin-li-christopher-zhu-chris-gold)  2005
+
+
 
 ---
 
