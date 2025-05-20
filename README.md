@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cec1531d-c210-42a6-aae7-f30c3c9fa71c)![image](https://github.com/user-attachments/assets/58cc53bc-558b-4495-be08-40e954a11e92)# Hi there, I'm Hossein Narimani Rad! 👋  
+# Hi there, I'm Hossein Narimani Rad! 👋  
 
 ## 🚀 GIS/Backend Developer & Data Engineer  
 I specialize in **backend development, data engineering, and geospatial systems**, with expertise in **GIS, C#, .NET, SQL Server, and Big Data**. I love building **data-driven applications, spatial solutions, scalable APIs, and ETL pipelines**.  
