@@ -55,22 +55,6 @@ I specialize in **backend development, data engineering, and geospatial systems*
 
 ---
 
-## 📊 GitHub/Stackoverflow Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hosseinnarimanirad&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hosseinnarimanirad&theme=dark&hide_border=false"/>
-  <br/> 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hosseinnarimanirad&layout=compact&count_private=true&include_all_commits=true&theme=gruvbox" alt="Top Languages" />
-  <br/>   
-</div>
-<p align="center">
-  <a  href="https://stackoverflow.com/users/1468295/hossein-narimani-rad"><img src="https://stackoverflow.com/users/flair/1468295.png" width="208" height="58" alt="profile for Hossein Narimani Rad at Stack Overflow" title="profile for Hossein Narimani Rad at Stack Overflow"></a>
-</p>  
-
----
-
 ## 📚 **Key Books I've Learned From**
 
 ### Algorithms
@@ -94,6 +78,21 @@ I specialize in **backend development, data engineering, and geospatial systems*
 - [Digital Terrain Modeling](https://www.taylorfrancis.com/books/mono/10.1201/9780203357132/digital-terrain-modeling-zhilin-li-christopher-zhu-chris-gold)  2005
 
 
+---
+
+## 📊 GitHub/Stackoverflow Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hosseinnarimanirad&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hosseinnarimanirad&theme=dark&hide_border=false"/>
+  <br/> 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hosseinnarimanirad&layout=compact&count_private=true&include_all_commits=true&theme=gruvbox" alt="Top Languages" />
+  <br/>   
+</div>
+<p align="center">
+  <a  href="https://stackoverflow.com/users/1468295/hossein-narimani-rad"><img src="https://stackoverflow.com/users/flair/1468295.png" width="208" height="58" alt="profile for Hossein Narimani Rad at Stack Overflow" title="profile for Hossein Narimani Rad at Stack Overflow"></a>
+</p>  
 
 ---
 
